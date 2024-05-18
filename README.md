@@ -11,7 +11,7 @@ Welcome to the **Fine-Tuning Llama 3 with ORPO** repository! In this project, we
 
 - `ORPO_finetuning.ipynb`: A Jupyter Notebook demonstrating how to fine-tune Llama 3 using ORPO. The notebook covers environment setup, model training, evaluation, and deployment.
 - `benchmark_results/`: Detailed results of benchmark evaluations (e.g., eqbench and truthfulqa). Note that we used a small dataset (1000 samples) for demonstration purposes.
-- `LICENSE.md`: Apache 2.0 license information for this repository.
+- `LICENSE.md`: MIT license information for this repository.
 
 ## Getting Started
 
